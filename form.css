@@ -1,0 +1,53 @@
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 400px 0px 400px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+h3{
+    background-color: darkorange;
+    color: deepskyblue;
+}
+h2{
+    color:crimson
+}
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/1008/41/desktop-wallpaper-nature-laptop-laptop-aesthetic-landscape.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+form:hover{
+    background-color: rgb(108, 236, 236);
+    margin: 0px 450px 0px 450px;
+
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(237, 245, 168);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(237, 245, 168);;
+}
+textarea{
+    border-radius: 5px;
+    background-color:rgb(237, 245, 168);;
+}
+input:hover{
+    background-color: rgb(213, 244, 188);
+}
+select:hover{
+    background-color: rgb(213, 244, 188);
+}
+textarea:hover{
+    background-color: rgb(213, 244, 188);
+}
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: green;
+}
